@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Gaman Caldararu</h1>
 <h3 align="center">A passionate Computer Engineering Student from Spain</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/SirAdriG99/portfolio)
-
 - 🌱 I’m currently learning **vue, symfony**
 
 - 📫 How to reach me **adrian.gaman99@gmail.com**
